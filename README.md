@@ -5,3 +5,5 @@
 ### OUTPUT SCREENSHOT
 
 ![solar wep page](https://github.com/Tamajit168/Solar-System-Web-Page-Design/assets/88767873/246a6019-7d9f-408d-aad9-9bbb020e216e)
+
+https://github.com/Tamajit168/Solar-System-Web-Page-Design/assets/88767873/4f8ef787-536b-47e6-85c0-82dd13260a14
